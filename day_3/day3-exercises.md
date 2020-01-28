@@ -21,7 +21,19 @@ Chapter 7 Questions:
 Chapter 13 & 15 Questions
 
 1. Describe the differences between border, margin, and padding.
+
+    padding surrounds the content. border surrounds the padding. margin surrounds the border.
+    
 2. For a CSS rule padding: 1px 2px 5px 10px, what sides of the content box does each pixel value correspond to?
+
+    1=top, 2=right, 5=bottom, 10=left
+    
 3. Describe the difference between block-level and inline elements.
+
+    block-level elements are stacked one on top of another. Inline elements are side by side.
+
 4. What is the role of fixed positioning, and why is z-index important in the scenario of using fixed positioning?
+
+    
+
 5. What is the difference between a fixed and liquid layout?
