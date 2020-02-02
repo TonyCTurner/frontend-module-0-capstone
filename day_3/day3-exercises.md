@@ -34,6 +34,6 @@ Chapter 13 & 15 Questions
 
 4. What is the role of fixed positioning, and why is z-index important in the scenario of using fixed positioning?
 
-    
+        
 
 5. What is the difference between a fixed and liquid layout?
